@@ -1,2 +1,2 @@
 # Dining-Chatbot
-Dining chatbot user can chat and get suggestions based on different factors.
+Dining chatbot users can chat with and get suggestions based on different factors.
